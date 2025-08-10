@@ -14,27 +14,48 @@ Template ini dirancang untuk memudahkan Anda membangun aplikasi web modern denga
 
 ## Memulai Proyek
 
-1.  **Clone repositori ini**:
+Ada dua cara untuk memulai proyek ini:
 
+#### Opsi 1: Menggunakan NPX (Disarankan)
+
+Cara ini akan membuat proyek baru dari template secara langsung.
+
+1.  Jalankan perintah berikut di terminal Anda:
     ```bash
-    git clone https://github.com/razorzero0/vue-vite-tailwind-starter.git
+    npx vue-vite-tailwind-starter create <project-name>
+    ```
+2.  Masuk ke direktori proyek yang baru dibuat:
+    ```bash
+    cd <project-name>
+    ```
 
+#### Opsi 2: Menggunakan Git Clone
+
+Cara ini akan mengkloning seluruh repositori.
+
+1.  Kloning repositori:
+    ```bash
+    git clone [https://github.com/razorzero0/vue-vite-tailwind-starter.git](https://github.com/razorzero0/vue-vite-tailwind-starter.git)
+    ```
+2.  Masuk ke direktori proyek:
+    ```bash
     cd vue-vite-tailwind-starter
     ```
 
-2.  **Instal dependensi**:
+---
+
+Setelah memilih salah satu opsi di atas, ikuti langkah-langkah selanjutnya:
+
+1.  **Instal dependensi**:
 
     ```bash
     npm install
     ```
 
-3.  **Jalankan server**:
-
+2.  **Jalankan server pengembangan**:
     ```bash
     npm run dev
     ```
-
----
 
 ## Masukan dan Dukungan
 
