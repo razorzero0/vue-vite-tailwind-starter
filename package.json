@@ -28,6 +28,10 @@
     "template"
   ],
   "author": "Ainun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razorzero0/vue-vite-tailwind-starter"
+  },
   "license": "MIT",
   "dependencies": {
     "vue": "^3.5.18",

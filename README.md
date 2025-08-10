@@ -1,35 +1,58 @@
-# st-vue-vite-tailwind
+# Vue 3 + Vite + Tailwind CSS v4 - Starter Template
 
-This template should help get you started developing with Vue 3 in Vite.
+Template ini dirancang untuk memudahkan Anda membangun aplikasi web modern dengan cepat menggunakan teknologi terkini. Meski masih sederhana, template ini sudah siap pakai dan dapat Anda kembangkan sesuai kebutuhan proyek Anda.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Teknologi yang Digunakan
 
-## Customize configuration
+- **[Vue 3](https://vuejs.org/)**: Framework JavaScript progresif yang fokus pada komponen untuk membangun antarmuka pengguna.
+- **[Vite](https://vitejs.dev/)**: _Next-generation frontend tooling_ yang menyediakan _hot module replacement_ (HMR) yang instan dan build yang sangat cepat.
+- **[Tailwind CSS v4](https://tailwindcss.com/)**: Framework CSS _utility-first_ untuk membangun desain kustom secara langsung di HTML Anda.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## Memulai Proyek
 
-```sh
-npm install
-```
+1.  **Clone repositori ini**:
 
-### Compile and Hot-Reload for Development
+    ```bash
+    git clone https://github.com/razorzero0/vue-vite-tailwind-starter.git
 
-```sh
-npm run dev
-```
+    cd vue-vite-tailwind-starter
+    ```
 
-### Compile and Minify for Production
+2.  **Instal dependensi**:
 
-```sh
-npm run build
-```
+    ```bash
+    npm install
+    ```
 
-### Lint with [ESLint](https://eslint.org/)
+3.  **Jalankan server**:
 
-```sh
-npm run lint
-```
+    ```bash
+    npm run dev
+    ```
+
+---
+
+## Masukan dan Dukungan
+
+Proyek ini adalah langkah pertama saya dalam berbagi _package_ ke komunitas.
+
+Jika Anda punya saran, ide, atau bahkan kritik, jangan ragu untuk menyampaikannya. Anda bisa:
+
+- Kirimkan _issue_ di GitHub.
+- Berikan bintang (⭐️) pada repositori ini jika Anda menyukainya.
+
+Terima kasih banyak atas dukungan dan bantuannya!
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah **Lisensi MIT**. Bebas untuk digunakan, dimodifikasi, dan didistribusikan. Silakan lihat file [`LICENSE`](LICENSE) untuk detail lebih lanjut.
+
+---
+
+Selamat berkarya! Happy coding! ❤️
