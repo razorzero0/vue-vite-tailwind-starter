@@ -1,0 +1,16 @@
+/* Import Tailwind CSS */
+@import "tailwindcss";
+
+/* Enable custom dark mode variant using .dark class */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Theme color variables */
+/* Light mode colors */
+@theme {
+  --color-primary: #42b983;
+  --color-secondary: #35495e;
+
+  /* Dark mode colors */
+  --color-primary-dark: #1f4037;
+  --color-secondary-dark: #1a2a38;
+}
